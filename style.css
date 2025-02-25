@@ -297,7 +297,7 @@ body {
     padding: 1.5rem;
   }
 
-  .hero {
+  #hero {
     width: 100%;
     height: auto;
     border: 1px solid white;
@@ -305,14 +305,11 @@ body {
     flex-direction: column !important;
     justify-content: center;
     align-items: center;
-    flex-wrap: wrap;
   }
   .hero-content {
     max-width: 100%;
     /* border: 1px solid green; */
     margin-bottom: 1rem;
-    display: flex;
-    flex-direction: column;
   }
 
   .hero-img {
@@ -341,5 +338,6 @@ body {
   .hero-layout h3,
   .hero-layout h4 {
     font-size: 1rem;
+    color: red;
   }
 }
