@@ -101,7 +101,6 @@ body {
 .hero {
   display: flex;
   width: 100%;
-  /* border: 1px solid red; */
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
@@ -312,6 +311,8 @@ body {
     max-width: 100%;
     /* border: 1px solid green; */
     margin-bottom: 1rem;
+    display: flex;
+    flex-direction: column;
   }
 
   .hero-img {
