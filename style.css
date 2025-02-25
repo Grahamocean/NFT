@@ -292,12 +292,12 @@ body {
   }
 }
 
-@media (max-width: 361px) {
+@media (max-width: 350px) {
   .section-p1 {
     padding: 1.5rem;
   }
 
-  #hero {
+  .hero {
     width: 100%;
     height: auto;
     border: 1px solid white;
@@ -338,6 +338,5 @@ body {
   .hero-layout h3,
   .hero-layout h4 {
     font-size: 1rem;
-    color: red;
   }
 }
