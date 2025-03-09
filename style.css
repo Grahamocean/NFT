@@ -292,9 +292,11 @@ body {
   }
 }
 
-@media (max-width: 350px) {
+@media (max-width: 361px) {
   .section-p1 {
     padding: 1.5rem;
+    border: 1px solid blue;
+    width: 100%;
   }
 
   .hero {
