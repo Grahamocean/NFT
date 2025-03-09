@@ -248,7 +248,7 @@ body {
   }
 }
 
-@media (max-width: 376px) {
+@media (max-width: 415px) {
   .section-p1 {
     padding: 2rem;
   }
@@ -291,6 +291,9 @@ body {
     font-size: 1rem;
   }
 }
+
+/* @media (max-width: 415x) {
+} */
 
 @media (max-width: 361px) {
   .section-p1 {
