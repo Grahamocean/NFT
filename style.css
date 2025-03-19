@@ -322,11 +322,13 @@ body {
   }
 
   .hero-content h1 {
-    font-size: 1.5rem;
+    font-size: 1.8rem;
+    line-height: 1.5;
   }
 
   .hero-content p {
     font-size: 1rem;
+    font-weight: 400;
   }
 
   .hero-content button {
